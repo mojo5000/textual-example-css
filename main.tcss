@@ -1,3 +1,7 @@
+Static {
+    color: green;
+}
+
 #bar {
     border: panel cornflowerblue;
 }
